@@ -1,0 +1,7 @@
+entity User {
+	firstName String,
+	lastName String,
+	email String,
+	phoneNumber String,
+    passwordHash String
+}
